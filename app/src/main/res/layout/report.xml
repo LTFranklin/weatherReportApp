@@ -5,7 +5,6 @@
     android:layout_height="wrap_content"
     tools:context="com.example.binky.weatherreportapp.hourlyWeather">
 
-    <!-- TODO: Update blank fragment layout -->
 
     <android.support.constraint.ConstraintLayout
         android:layout_width="match_parent"
@@ -92,13 +91,11 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:orientation="vertical">
-                android:background="@layout/base_border"
 
                 <TextView
                     android:id="@+id/windSpeed"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
                     android:text="TextView"
                     android:textAlignment="center"
                     android:textSize="14sp"
