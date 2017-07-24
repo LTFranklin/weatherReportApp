@@ -3,4 +3,8 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_text">Search</string>
+    <string name="enter_text">Enter a City</string>
+    <string name="daily_text">Today\'s Forecast</string>
+    <string name="weekly_text">5 Day Forecast</string>
 </resources>
